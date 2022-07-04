@@ -1,0 +1,3 @@
+*.json
+.gdb_history
+node_modules
